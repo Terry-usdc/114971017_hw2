@@ -1,0 +1,9 @@
+﻿Method,Text,Pred_Sentiment,Pred_Topic,Correct
+Traditional,"這家餐廳的牛肉麵真的太好吃了,...",中性,美食,False
+Traditional,"最新的AI技術突破讓人驚艷,深...",正面,科技,True
+Traditional,"這部電影劇情空洞,演技糟糕,完...",負面,科技,True
+Traditional,"每天慢跑5公里,配合適當的重訓...",中性,運動,True
+AI (GPT-5-nano),"這家餐廳的牛肉麵真的太好吃了,...",正面,美食,True
+AI (GPT-5-nano),"最新的AI技術突破讓人驚艷,深...",正面,科技,True
+AI (GPT-5-nano),"這部電影劇情空洞,演技糟糕,完...",負面,影視,True
+AI (GPT-5-nano),"每天慢跑5公里,配合適當的重訓...",正面,運動,True

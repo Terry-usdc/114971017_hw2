@@ -1,0 +1,21 @@
+{
+    "classification": {
+        "traditional": {
+            "accuracy": 75.0,
+            "time": 0.004125833511352539
+        },
+        "ai": {
+            "accuracy": 100.0,
+            "time": 20.366742610931396,
+            "model": "gpt-5-nano"
+        }
+    },
+    "summarization": {
+        "traditional": {
+            "time": 0.00644230842590332
+        },
+        "ai": {
+            "time": 11.94167184829712
+        }
+    }
+}
